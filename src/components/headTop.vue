@@ -9,7 +9,7 @@
 			<img :src="baseImgPath + adminInfo.avatar" class="avator">
 			<el-dropdown-menu slot="dropdown">
 				<el-dropdown-item command="home">首页</el-dropdown-item>
-				<el-dropdown-item command="signout">登出 页面</el-dropdown-item>
+				<el-dropdown-item command="signout">登出页面</el-dropdown-item>
 			</el-dropdown-menu>
 		</el-dropdown>
     </div>
